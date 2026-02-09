@@ -1,0 +1,14 @@
+# Dataset folders
+leaf_dataset/
+dataset/
+data/
+
+# Kaggle downloads
+*.zip
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+# Dataset files
+*.zip
+image data/
